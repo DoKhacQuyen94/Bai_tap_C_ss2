@@ -2,7 +2,10 @@
 int main(){
     // Kiểu int: số nguyên
     int soNguyen = 9;
-
+    
+    // Khai bao mot bien kieu short, dung de luu tru so nguyen co pham vi nho hon int
+	short quyen = 200; // Bien e luu tru gia tri 200
+    
     // kiểu float: số thực
     float pi =3.14;
 
